@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052178211835",
+    "project_id": "fir-flutter-chat-c9272",
+    "storage_bucket": "fir-flutter-chat-c9272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052178211835:android:a29399e9ebe2dc33b1a15e",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052178211835-phjg81dfgibkhfctatlgqe4k00202kd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG2gQuKQ2m_zWW-EERldLVY1DCOtxLxVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052178211835-phjg81dfgibkhfctatlgqe4k00202kd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
